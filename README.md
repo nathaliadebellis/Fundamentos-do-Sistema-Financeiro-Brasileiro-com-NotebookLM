@@ -1,4 +1,9 @@
 # Fundamentos do Sistema Financeiro Brasileiro com NotebookLM
+![Bootcamp](https://img.shields.io/badge/Bootcamp-Bradesco-red)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-blue)
+![IA Generativa](https://img.shields.io/badge/IA-Generativa-green)
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📖 Sobre o Projeto
 
